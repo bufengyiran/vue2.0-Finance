@@ -15,7 +15,7 @@ npm run dev 以及 node app.js------启动前端和后端服务器
 ## 项目模拟账号及密码(区分大小写)
 * name: Daniel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password: mon56asset
 * name: Mary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password: ticker123
-* name: Alex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password: robot
+* name: Alex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;password: robot
 
 
 ## vue组件结构图
