@@ -27,5 +27,5 @@ npm run dev 以及 node app.js------启动前端和后端服务器
 
 ## 说明
 * 由于没有服务器和空间，数据库是托管到[mlab.com](https://mlab.com/)的海外站点上，所以可能会出现访问迟缓的现象。
-* 关于LongPositions和ShortsPositions中的数据，是我申请IB盈透证券的一个模拟账户，进行模拟交易后导出的数据，模拟账户的金额有限制，
-  所以只能匹配Alex账户数据，Daniel和Mary账户中的LongPositions和ShortsPositions数据使用的是和Alex一样的。
+* 关于LongPositions和ShortsPositions中的数据，是我申请IB盈透证券的一个模拟账户，进行模拟交易后导出的数据，由于模拟账户的金额有限制，
+  所以只能匹配Alex账户金额数据，而Daniel和Mary账户中的LongPositions和ShortsPositions数据使用的是和Alex一样的。
