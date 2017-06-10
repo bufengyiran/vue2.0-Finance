@@ -1,6 +1,6 @@
 # 金融类spa应用<br><br>
-####技术栈：vue2.0 + vue-router + vuex + axios + express(node.js) + mongoose(mongodb)<br><br>
-#####使用vue-cli官方脚手架<br><br>
+技术栈：vue2.0 + vue-router + vuex + axios + express(node.js) + mongoose(mongodb)<br><br>
+使用vue-cli官方脚手架<br><br>
 
 
 
